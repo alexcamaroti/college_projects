@@ -1,0 +1,11 @@
+c:\users\alex\documents\visual studio 2012\Projects\AtividadeEntity\AtividadeEntity\bin\Debug\AtividadeEntity.exe.config
+c:\users\alex\documents\visual studio 2012\Projects\AtividadeEntity\AtividadeEntity\bin\Debug\AtividadeEntity.exe
+c:\users\alex\documents\visual studio 2012\Projects\AtividadeEntity\AtividadeEntity\bin\Debug\AtividadeEntity.pdb
+c:\users\alex\documents\visual studio 2012\Projects\AtividadeEntity\AtividadeEntity\obj\Debug\AtividadeEntity.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2012\Projects\AtividadeEntity\AtividadeEntity\obj\Debug\AtividadeEntity.Form1.resources
+c:\users\alex\documents\visual studio 2012\Projects\AtividadeEntity\AtividadeEntity\obj\Debug\AtividadeEntity.FormCadastro.resources
+c:\users\alex\documents\visual studio 2012\Projects\AtividadeEntity\AtividadeEntity\obj\Debug\AtividadeEntity.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2012\Projects\AtividadeEntity\AtividadeEntity\obj\Debug\AtividadeEntity.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2012\Projects\AtividadeEntity\AtividadeEntity\obj\Debug\AtividadeEntity.exe
+c:\users\alex\documents\visual studio 2012\Projects\AtividadeEntity\AtividadeEntity\obj\Debug\AtividadeEntity.pdb
+c:\users\alex\documents\visual studio 2012\Projects\AtividadeEntity\AtividadeEntity\obj\Debug\AtividadeEntity.FormAlteracao.resources

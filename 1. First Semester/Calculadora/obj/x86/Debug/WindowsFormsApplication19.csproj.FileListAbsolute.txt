@@ -1,0 +1,9 @@
+c:\documents and settings\alex\meus documentos\visual studio 2010\Projects\WindowsFormsApplication19\WindowsFormsApplication19\bin\Debug\WindowsFormsApplication19.exe
+c:\documents and settings\alex\meus documentos\visual studio 2010\Projects\WindowsFormsApplication19\WindowsFormsApplication19\bin\Debug\WindowsFormsApplication19.pdb
+c:\documents and settings\alex\meus documentos\visual studio 2010\Projects\WindowsFormsApplication19\WindowsFormsApplication19\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\alex\meus documentos\visual studio 2010\Projects\WindowsFormsApplication19\WindowsFormsApplication19\obj\x86\Debug\WindowsFormsApplication19.Properties.Resources.resources
+c:\documents and settings\alex\meus documentos\visual studio 2010\Projects\WindowsFormsApplication19\WindowsFormsApplication19\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\alex\meus documentos\visual studio 2010\Projects\WindowsFormsApplication19\WindowsFormsApplication19\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\alex\meus documentos\visual studio 2010\Projects\WindowsFormsApplication19\WindowsFormsApplication19\obj\x86\Debug\WindowsFormsApplication19.exe
+c:\documents and settings\alex\meus documentos\visual studio 2010\Projects\WindowsFormsApplication19\WindowsFormsApplication19\obj\x86\Debug\WindowsFormsApplication19.pdb
+c:\documents and settings\alex\meus documentos\visual studio 2010\Projects\WindowsFormsApplication19\WindowsFormsApplication19\obj\x86\Debug\WindowsFormsApplication19.Calculadora.resources

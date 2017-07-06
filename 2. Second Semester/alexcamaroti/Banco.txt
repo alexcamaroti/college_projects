@@ -1,0 +1,4 @@
+Tabelas :
+
+Categoria (CodigoCategoria(chave primária),NomeCategoria)
+Produto (CodigoProduto(chave primária),nomeProduto,preco,CodigoCategoria(chave estrangeira))
